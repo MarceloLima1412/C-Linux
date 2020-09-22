@@ -1,0 +1,17 @@
+# args.ggo
+# Ficheiro de configuração do programa SO
+
+purpose "2160866-2192236"
+package "SO"
+version "1.0"
+
+# Options
+option  "compact" c "Parametro compact" no
+option  "dir" d "Parametro dir" string no
+option  "discrete" - "Parametro discrete" string no
+option  "file" f "Parametro file" string no
+option  "help" h "Parametro help" no
+option  "mode" m "Parametro mode" short no
+option  "output" o "Parametro output" string no
+option  "search" s "Parametro search" string no
+option  "time" - "Parametro time" no
